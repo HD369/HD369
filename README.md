@@ -4,7 +4,7 @@
 <img width="50%" height="50%" align="right" src="https://media.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif"/>
 <img width="50%" height="70%" align="right" src="https://mayecreate.com/wp-content/uploads/2022/05/hacker-gif-1.gif"/>
 
-<br/><br/>
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hd369&label=Profile%20views&color=0e75b6&style=flat" alt="hd369" /> </p>
 
