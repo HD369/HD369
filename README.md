@@ -8,25 +8,18 @@
 <br/><br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hd369&label=Profile%20views&color=0e75b6&style=flat" alt="hd369" /> </p>
 
-- 🔭 I’m currently Studying in IT Feild. [--](--)
+- 🔭 I’m currently Studying in Web Developer feild.
 
 - 🌱 I’m currently learning **React js, Javascript, Blender, PS, Wordpress, Figma, Node.js**
 
-- -- [--](--)
-
-- -- [--](--)
-
 - 👨‍💻 All of my projects are available at [--](--)
 
-- 📝 I regularly write articles on [--](--)
 
 - 💬 Ask me about **React js, Javascript, Blender**
 
 - 📫 How to reach me **ON insta : Heal design**
 
-- 📄 Know about my experiences [--](--)
-
-- ⚡ Fun fact **I am sensitive...**
+- ⚡ Fun fact **I am sensitive...little Funny..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
