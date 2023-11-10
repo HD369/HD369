@@ -5,9 +5,7 @@
 
 
 <img width="60%" height="60%" align="right" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif"/>
-<br/><br/>
-<hr/>
-<br/><br/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hd369&label=Profile%20views&color=0e75b6&style=flat" alt="hd369" /> </p>
 
 - 🔭 I’m currently Studying in Web Developer feild.
