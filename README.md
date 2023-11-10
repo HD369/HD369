@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React js, Javascript, Blender, PS, Wordpress, Figma, Node.js**
 
-- 👨‍💻 All of my projects are available at [--](--)
+- 👨‍💻 All of my projects are available at 
 
 
 - 💬 Ask me about **React js, Javascript, Blender**
