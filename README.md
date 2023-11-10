@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Web developer from India</h3>
 
 
-<img width="100%" height="100%" align="center" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif"/>
+<img width="70%" height="70%" align="center" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif"/>
 <br/><br/>
 <hr/>
 <br/><br/>
