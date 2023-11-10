@@ -1,4 +1,4 @@
-![logo](Black Modern Vlogger YouTube Banner.png)
+![logo](https://github.com/HD369/HD369/blob/2926a070761d45a2b8b8bbe345b32a266d2efc41/Black%20Modern%20Vlogger%20YouTube%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm HD369</h1>
 <h3 align="center">A passionate Web developer from India</h3>
