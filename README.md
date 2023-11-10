@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HD369</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<img width="50%" height="50%" align="right" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6"/>
+
 <img width="50%" height="50%" align="right" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif"/>
 <br/><br/>
 <hr/>
